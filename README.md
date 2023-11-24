@@ -13,13 +13,13 @@ preprocessing techniques to enhance the quality of the fingerprint images and th
 # Running the code
 In order to run the code, one needs to first git clone all the files from the repository. This can be done by running the following command in a terminal window:
 
-'git clone https://github.com/Maitreyi1506/Fingerprint-Sequencing.git'
+`git clone https://github.com/Maitreyi1506/Fingerprint-Sequencing.git`
 
 Once the files have been cloned, the next step is to download the dataset. This can be done by visiting the website where the dataset is hosted and downloading the files. 
 The dataset can be found at: [https://www.kaggle.com/datasets/ruizgara/socofing](url)
 
 Finally, once the dataset has been downloaded, the code can be run by running the following command in a terminal window:
 
-'python GUI_integrated.py'
+`python GUI_integrated.py`
 
 This will run the GUI_integrated.py file, which will start the graphical user interface (GUI) for the code.
